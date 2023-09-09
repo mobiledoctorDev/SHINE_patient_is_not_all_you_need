@@ -1,8 +1,0 @@
-data size/ 괄호안은 년도
-training 4260 (2018), validation 1065 (2018), test 1332 (2017)
-
-변수 모두 사용/24시간 이내
-Iter: 595, recon_loss: -0.7524, ce_loss: 0.0801, acc: 0.9646, mse: 0.0003, val_loss: 0.1224, val_acc: 0.9531, test_acc: 0.9595
-
-변수 surveillance만 사용/ 24시간 이내
-Iter: 742, recon_loss: 10.4073, ce_loss: 0.2030, acc: 0.9249, mse: 0.0006, val_loss: 0.1912, val_acc: 0.9202, test_acc: 0.9204

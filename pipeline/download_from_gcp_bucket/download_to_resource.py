@@ -9,7 +9,7 @@ from argparse import ArgumentParser
 from utils import mkdir_if_not_exists
 
 # Replace with your project and bucket names
-project_name = 'shine-mobiledoctor'
+project_name = 'shine-xxxxxxxxxxx'
 
 parser = ArgumentParser()
 parser.add_argument("--bucket_name", type=str, help="Please write bucket name")
