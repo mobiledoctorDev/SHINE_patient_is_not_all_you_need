@@ -139,7 +139,7 @@ pudb==2019.2
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py==1.11.0
 pyaml==21.10.1
-pyarrow==10.0.1
+pyarrow==14.0.1
 pyasn1==0.5.0rc2
 pyasn1-modules==0.3.0rc1
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
