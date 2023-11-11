@@ -27,7 +27,7 @@ numpy @ file:///Users/cbousseau/work/recipes/ci_py311/numpy_and_numpy_base_16779
 packaging @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e946luvhc3/croot/packaging_1678965323926/work
 pandas==1.5.3
 parse==1.19.0
-Pillow==9.4.0
+Pillow==10.0.1
 pluggy @ file:///Users/cbousseau/work/recipes/ci_py311/pluggy_1677906980825/work
 pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
 protobuf==4.22.1

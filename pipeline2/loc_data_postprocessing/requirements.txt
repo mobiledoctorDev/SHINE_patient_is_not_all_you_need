@@ -121,7 +121,7 @@ patsy==0.5.3
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pika==1.3.0
-Pillow==9.2.0
+Pillow==10.0.1
 pkgutil_resolve_name @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0fpncw4e7o/croots/recipe/pkgutil-resolve-name_1661463323469/work
 platformdirs==2.6.2
 pluggy==1.0.0
